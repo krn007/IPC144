@@ -1,0 +1,11 @@
+﻿  emp_inlab.c
+c:\users\krnvi\desktop\my seneca files\ipc144 james\workshop5_ipc1442_inlab2\emp_inlab.c(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\krnvi\desktop\my seneca files\ipc144 james\workshop5_ipc1442_inlab2\emp_inlab.c(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\krnvi\desktop\my seneca files\ipc144 james\workshop5_ipc1442_inlab2\emp_inlab.c(52): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\krnvi\desktop\my seneca files\ipc144 james\workshop5_ipc1442_inlab2\emp_inlab.c(54): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  workshop5_ipc1442_inlab2.vcxproj -> C:\Users\krnvi\Desktop\My Seneca Files\IPC144 James\workshop5_ipc1442_inlab2\Debug\workshop5_ipc1442_inlab2.exe
+  workshop5_ipc1442_inlab2.vcxproj -> C:\Users\krnvi\Desktop\My Seneca Files\IPC144 James\workshop5_ipc1442_inlab2\Debug\workshop5_ipc1442_inlab2.pdb (Full PDB)

@@ -1,0 +1,11 @@
+﻿  phone_app_in_lab.c
+c:\users\krnvi\desktop\my seneca files\ipc144 james\workshop7_ipc1442\phone_app_in_lab.c(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\krnvi\desktop\my seneca files\ipc144 james\workshop7_ipc1442\phone_app_in_lab.c(48): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type '__int64 *'
+  c:\users\krnvi\desktop\my seneca files\ipc144 james\workshop7_ipc1442\phone_app_in_lab.c(48): note: consider using '%lld' in the format string
+  c:\users\krnvi\desktop\my seneca files\ipc144 james\workshop7_ipc1442\phone_app_in_lab.c(48): note: consider using '%I64d' in the format string
+c:\users\krnvi\desktop\my seneca files\ipc144 james\workshop7_ipc1442\phone_app_in_lab.c(48): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\krnvi\desktop\my seneca files\ipc144 james\workshop7_ipc1442\phone_app_in_lab.c(13): warning C4101: 'number': unreferenced local variable
+  workshop7_ipc1442.vcxproj -> C:\Users\krnvi\Desktop\My Seneca Files\IPC144 James\workshop7_ipc1442\Debug\workshop7_ipc1442.exe
+  workshop7_ipc1442.vcxproj -> C:\Users\krnvi\Desktop\My Seneca Files\IPC144 James\workshop7_ipc1442\Debug\workshop7_ipc1442.pdb (Full PDB)

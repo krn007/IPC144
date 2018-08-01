@@ -1,0 +1,21 @@
+﻿  bookstore_app_at_home.c
+c:\users\krnvi\desktop\my seneca files\ipc144 james\workshop8_ipc1442_home\bookstore_app_at_home.c(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\krnvi\desktop\my seneca files\ipc144 james\workshop8_ipc1442_home\bookstore_app_at_home.c(78): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\krnvi\desktop\my seneca files\ipc144 james\workshop8_ipc1442_home\bookstore_app_at_home.c(84): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\krnvi\desktop\my seneca files\ipc144 james\workshop8_ipc1442_home\bookstore_app_at_home.c(87): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\krnvi\desktop\my seneca files\ipc144 james\workshop8_ipc1442_home\bookstore_app_at_home.c(89): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\krnvi\desktop\my seneca files\ipc144 james\workshop8_ipc1442_home\bookstore_app_at_home.c(91): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\krnvi\desktop\my seneca files\ipc144 james\workshop8_ipc1442_home\bookstore_app_at_home.c(98): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\krnvi\desktop\my seneca files\ipc144 james\workshop8_ipc1442_home\bookstore_app_at_home.c(112): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\krnvi\desktop\my seneca files\ipc144 james\workshop8_ipc1442_home\bookstore_app_at_home.c(133): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  workshop8_ipc1442_home.vcxproj -> C:\Users\krnvi\Desktop\My Seneca Files\IPC144 James\workshop8_ipc1442_home\Debug\workshop8_ipc1442_home.exe
+  workshop8_ipc1442_home.vcxproj -> C:\Users\krnvi\Desktop\My Seneca Files\IPC144 James\workshop8_ipc1442_home\Debug\workshop8_ipc1442_home.pdb (Full PDB)

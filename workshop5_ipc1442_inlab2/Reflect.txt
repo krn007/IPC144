@@ -1,0 +1,8 @@
+1. Structure arrays are easier to manage then parallel arrays.If we want to pass a structure to a function, it's easier to pass the struct but it is harder to pass using parallel arrays.When we use parallele arrays we need to pass array to each field
+   and the program becomes bigger,and hard to understand.Using structure of arrays the code becomes short and easier to understand.A structure type is a collection of not necessarily identical types.  We use the structure type to define a group of variables as a single object.
+   A convenient way to store tabular information is through two parallel arrays. One arrays holds the key, while the other hold values.  The arrays are parallel because the elements at the same index hold data that are related to the same entity. 
+
+2. When we place source code in a header file, we insert that header file's code into the source file that requires that information, as shown below. In such cases, our complete source code is stored in more than one file.  When compiling multi-file source code, we only pass the .c file(s) to the compiler.  
+   The code in a header file is duplicated inside each C file in which it is included, which allows us to write code, like a struct, in one spot and edit it in that one spot alone. 
+
+

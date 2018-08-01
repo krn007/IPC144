@@ -1,0 +1,31 @@
+﻿  emp_athome.c
+c:\users\krnvi\desktop\my seneca files\workshop5_ipc1442_home\emp_athome.c(48): warning C4013: 'strcmp' undefined; assuming extern returning int
+c:\users\krnvi\desktop\my seneca files\workshop5_ipc1442_home\emp_athome.c(86): warning C4013: 'strcpy' undefined; assuming extern returning int
+c:\users\krnvi\desktop\my seneca files\workshop5_ipc1442_home\emp_athome.c(33): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\krnvi\desktop\my seneca files\workshop5_ipc1442_home\emp_athome.c(49): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+c:\users\krnvi\desktop\my seneca files\workshop5_ipc1442_home\emp_athome.c(49): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'int *'
+c:\users\krnvi\desktop\my seneca files\workshop5_ipc1442_home\emp_athome.c(49): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'double *'
+c:\users\krnvi\desktop\my seneca files\workshop5_ipc1442_home\emp_athome.c(61): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int (*)[10]'
+c:\users\krnvi\desktop\my seneca files\workshop5_ipc1442_home\emp_athome.c(61): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\krnvi\desktop\my seneca files\workshop5_ipc1442_home\emp_athome.c(63): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int (*)[10]'
+c:\users\krnvi\desktop\my seneca files\workshop5_ipc1442_home\emp_athome.c(63): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\krnvi\desktop\my seneca files\workshop5_ipc1442_home\emp_athome.c(65): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'double (*)[10]'
+c:\users\krnvi\desktop\my seneca files\workshop5_ipc1442_home\emp_athome.c(65): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\krnvi\desktop\my seneca files\workshop5_ipc1442_home\emp_athome.c(78): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int (*)[10]'
+c:\users\krnvi\desktop\my seneca files\workshop5_ipc1442_home\emp_athome.c(78): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\krnvi\desktop\my seneca files\workshop5_ipc1442_home\emp_athome.c(83): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'double *'
+c:\users\krnvi\desktop\my seneca files\workshop5_ipc1442_home\emp_athome.c(85): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\krnvi\desktop\my seneca files\workshop5_ipc1442_home\emp_athome.c(99): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int (*)[10]'
+c:\users\krnvi\desktop\my seneca files\workshop5_ipc1442_home\emp_athome.c(99): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\krnvi\desktop\my seneca files\workshop5_ipc1442_home\emp_athome.c(104): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+c:\users\krnvi\desktop\my seneca files\workshop5_ipc1442_home\emp_athome.c(23): warning C4101: 'c': unreferenced local variable
+  LINK : C:\Users\krnvi\Desktop\my seneca files\workshop5_ipc1442_home\Debug\workshop5_ipc1442_home.exe not found or not built by the last incremental link; performing full link
+  workshop5_ipc1442_home.vcxproj -> C:\Users\krnvi\Desktop\my seneca files\workshop5_ipc1442_home\Debug\workshop5_ipc1442_home.exe
+  workshop5_ipc1442_home.vcxproj -> C:\Users\krnvi\Desktop\my seneca files\workshop5_ipc1442_home\Debug\workshop5_ipc1442_home.pdb (Full PDB)
